@@ -57,11 +57,6 @@ body {
   border-radius: 1.5rem;
 }
 
-/* .card__textbox {
-    border: 1px solid green;
-    
-} */
-
 .card__textbox-status {
   display: inline-block;
   background-color: var(--color-primary);
